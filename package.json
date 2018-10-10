@@ -1,0 +1,28 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "asciichart": "^1.5.7",
+    "chalk": "^2.4.1",
+    "keyboard-key": "^1.0.2",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node snake.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/snake-exercise-Cantfirmed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/snake-exercise-Cantfirmed/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/snake-exercise-Cantfirmed#readme"
+}
